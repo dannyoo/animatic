@@ -3,12 +3,12 @@
   "name": "Animatic: Animate with $MATIC",
   "icons": [
     {
-      "src": "/public/favicon.ico",
+      "src": "/favicon.ico",
       "type": "image/*",
       "sizes": "192x192"
     },
     {
-      "src": "/public/favicon.ico",
+      "src": "/favicon.ico",
       "type": "image/*",
       "sizes": "512x512"
     }
